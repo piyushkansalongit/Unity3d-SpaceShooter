@@ -6,7 +6,7 @@ Steps to use:
 
 1. Download the code.
 2. Add it to a Unity Project Folder.
-3. Build it in a stand alone application.
+3. Make it a stand alone application.
 
 
 Check out sample videos below:
